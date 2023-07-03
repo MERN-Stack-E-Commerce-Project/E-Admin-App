@@ -1,0 +1,6 @@
+.buttons Button{
+    margin:0 10px;
+    &:hover{
+        font-size: 18px;
+    }
+}

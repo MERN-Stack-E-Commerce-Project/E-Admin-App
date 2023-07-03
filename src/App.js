@@ -13,7 +13,6 @@ import Orders from "./containers/Orders";
 import Category from "./containers/Category";
 import { getInitialData } from './actions';
 import Page from './containers/Page';
-// import PrivateRoute from "./components/HOC/PrivateRoute";
 
 function App() {
   const dispatch = useDispatch();

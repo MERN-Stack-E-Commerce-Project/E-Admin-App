@@ -12,17 +12,8 @@ Admins will be notified for newly ordered item
 Admins can create new page of store to publish in user side
 
 #### Tools used
-The framework used: NodeJS,\
-The database used : MongoDB\
-Models/Scema used for various dataset:
-1) User - To store login credential as well as user information
-2) Category- to list various category for user in app
-3) Product - to list varoius product in category
-4) cart - to save information of user for added items in cart
-5) Address - To deliver item in particular address of user after confirmation of order
-6) Page - To display separate page of a particular brand like : Apple, MI etc
-7) Order - To Store ordered items by user for further process
-Authentication: bcrypt library used to encrypt user password.
+Frameworks used: ReactJS, React Redux, Material-UI
+APIs: All RESTful APIs created at the backend for admin queries 
 
 
 ## Installation

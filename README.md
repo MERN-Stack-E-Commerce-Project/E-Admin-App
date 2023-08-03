@@ -12,8 +12,8 @@ Admins will be notified for newly ordered item
 Admins can create new page of store to publish in user side
 
 #### Tools used
-The framework used: NodeJS,
-The database used : MongoDB
+The framework used: NodeJS,\
+The database used : MongoDB\
 Models/Scema used for various dataset:
 1) User - To store login credential as well as user information
 2) Category- to list various category for user in app
